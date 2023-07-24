@@ -4,7 +4,7 @@ public class PrimeNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num=17;
+		int num=19;
 		boolean flag=true;
 		if(num==1||num==0) {
 			flag=false;

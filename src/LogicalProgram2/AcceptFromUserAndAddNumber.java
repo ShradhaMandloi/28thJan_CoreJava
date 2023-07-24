@@ -2,7 +2,7 @@ package LogicalProgram2;
 
 import java.util.Scanner;
 
-public class AcceptUserFromUserAndAddNumber {
+public class AcceptFromUserAndAddNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
