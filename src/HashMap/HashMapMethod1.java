@@ -17,7 +17,7 @@ public class HashMapMethod1 {
 		System.out.println(hm);
 		
 		//2-put method-> update value of existing key
-		hm.put(101, "Shraddha");
+		hm.put(102, "Shraddha");
 		System.out.println(hm);
 		
 		//3-ContainsKey method- to verify the key is present or not 
