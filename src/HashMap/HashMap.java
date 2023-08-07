@@ -9,7 +9,8 @@ public class HashMap {
 		// TODO Auto-generated method stub
 		String s="My name is shradha is shradha is shradha";
 		String [] s1= s.split(" ");
-		HashMap<String, Integer> hm= new HashMap();
+		//HashMap<String, Integer> hm= new HashMap();
+		HashMap<Integer, String> hm= new HashMap<>();
 		for(int i=0;i<=s1.length-1;i++) {
 			String s2=s1[i];
 			
